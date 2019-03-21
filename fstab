@@ -13,5 +13,3 @@ UUID=9544beaf-da99-4019-a72a-e7f4cbbd510f swap                    swap    defaul
 tmpfs                   /dev/shm                tmpfs   defaults        0 0
 devpts                  /dev/pts                devpts  gid=5,mode=620  0 0
 sysfs                   /sys                    sysfs   defaults        0 0
-proc                    /proc                   proc    defaults        0 0
-/nfs/                   /share/software/        ext4     defaults    0 0
